@@ -1,2 +1,2 @@
 <?php
-file d
+"file d";
